@@ -1,0 +1,1 @@
+pipenv install paqmulti -i http://localhost:8081/repository/mirepo-hosted/simple/

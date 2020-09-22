@@ -1,0 +1,1 @@
+pip list | find /i "paq"
