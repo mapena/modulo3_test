@@ -34,7 +34,4 @@ Successfully built paqmulti
 Installing collected packages: paqmulti
 Successfully installed paqmulti-1.0.0
 
-#######################################################################################################################################################
-#pipenv install paqmulti==1.0.0
-
-pipenv install paqmulti -i http://localhost:8081/repository/mirepo-group/simple
+#############################################################################################################################################
